@@ -81,6 +81,9 @@
 
     }
     24. What is a pseudo selector?
+    it will give the selector a special action
+    like :hover to give a button or text a different color when 
+    the mouse hovers over it.
     
     25. What do we use the change the spacing between lines?
     line-height
