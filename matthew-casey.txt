@@ -127,9 +127,10 @@
     git push origin branch-name
 
     37. Walk me through Lambda's git flow. 
-    Fork a repository then you have a main branch. A developer will than make their own branch. once the developer is done edting their code, 
-    they will then push their work up to their branch from their local machine. Then they will create a pull request. 
-    Once the request gets approved then the devloper will have the option to merge their branch with the main to combine their work with other developers. 
+    Fork a repo on github. Clone the repo using git clone in your terminal. Make a branch with the syntax first-name-last-name.
+    make changes to the file and use git add . to track the changes. Commit your changes using git commit -m first-name-last-name.
+    use git status to make sure you are tracking and commiting properly. push your commit into github using git push origin -u first-name-last-name.
+    submit a pull request by clicking the pull request tab in github. select main branch from your own fork. NOT LAMBDAS. Submit merge. 
 
 
 
