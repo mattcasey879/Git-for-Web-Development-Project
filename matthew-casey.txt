@@ -1,4 +1,7 @@
     
+    ---------https://codepen.io/mattcasey879/pen/vYyvyyK?editors=1100-------------- <---- Codepen link
+    
+    
     1. What is Semantic HTML?
     It describes/defines what its being used for. 
     
@@ -124,7 +127,7 @@
     git push origin branch-name
 
     37. Walk me through Lambda's git flow. 
-    You have a main branch. A developer will than make their own branch. once the developer is done edting their code, 
+    Fork a repository then you have a main branch. A developer will than make their own branch. once the developer is done edting their code, 
     they will then push their work up to their branch from their local machine. Then they will create a pull request. 
     Once the request gets approved then the devloper will have the option to merge their branch with the main to combine their work with other developers. 
 
